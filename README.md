@@ -16,12 +16,12 @@ It doesn't matter if it's
 - or others,  
 
 or how many other names, signatures, and certificates they invent to be used <br>
-and how <a href="https://github.com/Reinerth/entropy-disorder-spreads-easier-than-order" target="_blank" rel="noopener noreferrer">confusingly complex</a> they are designed and described; <br>
+and how <a href="https://github.com/Reinerth/entropy-disorder-spreads-easier-than-order">confusingly complex</a> they are designed and described; <br>
 ALL different kinds of authentications (protocols, extensions, frameworks, or apps) <br>
-have ONE thing in common. They are grounded on the <a href="https://github.com/Reinerth/Application-Template-MVC-best-Practice" target="_blank" rel="noopener noreferrer">MVC-pattern</a>. <br>
+have ONE thing in common. They are grounded on the <a href="https://github.com/Reinerth/Application-Template-MVC-best-Practice">MVC-pattern</a>. <br>
 <br>
 The Model-View-Controller-Pattern is like a universal STANDARD for all programs or applications. <br>
-Even if we don't <a href="https://github.com/Reinerth/Application-Template-MVC-best-Practice" target="_blank" rel="noopener noreferrer">structure our code accordingly to follow this pattern</a>.<br>
+Even if we don't <a href="https://github.com/Reinerth/Application-Template-MVC-best-Practice">structure our code accordingly to follow this pattern</a>.<br>
 In theory, all apps follow  this unavoidable pattern-rule. <br>
 This is why some say MVC is not a pattern; it is always a fact. <br>
 <br>
