@@ -16,7 +16,7 @@ It doesn't matter if it's
 - or others,  
 
 or how many other names, signatures, and certificates they invent to be used <br>
-and how confusingly complex they are designed and described; <br>
+and how <a href="https://github.com/Reinerth/entropy-disorder-spreads-easier-than-order" target="_blank" rel="noopener noreferrer">confusingly complex</a> they are designed and described; <br>
 ALL different kinds of authentications (protocols, extensions, frameworks, or apps) <br>
 have ONE thing in common. They are grounded on the <a href="https://github.com/Reinerth/Application-Template-MVC-best-Practice" target="_blank" rel="noopener noreferrer">MVC-pattern</a>. <br>
 <br>
@@ -36,7 +36,7 @@ that your new app or module does not has the right interface/API to be connected
 Then you would need to rewrite your app or -<b>still</b>- write your own authentication-flow.<br>
 <br>
 
-<img width="1210" height="860" alt="authentication-underlying-fundamentals" src="https://github.com/user-attachments/assets/6bf1c143-9ead-4ba4-bb63-bcb19fd27db4" />
+<img width="1210" height="860" alt="authentication-underlying-fundamentals" src="https://github.com/user-attachments/assets/7cc9331b-011c-490f-9e08-dca356f515bb" />
 
 
 <br><br><br><br><br><br><br><br><br><br>
