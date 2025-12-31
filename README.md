@@ -1,4 +1,4 @@
-# Advice for deving authentication in a browser-app
+# Advice for deving authentication in a browser-app :key:
 
 On finding the right decision for the way of authentication in the mass of confusing offers on the net, <br>
 this elementary structure and authentication-flow (see below) should be understood.<br>
@@ -37,6 +37,40 @@ Then you would need to rewrite your app or -<b>still</b>- write your own authent
 <br>
 
 <img width="1210" height="860" alt="authentication-underlying-fundamentals" src="https://github.com/user-attachments/assets/7cc9331b-011c-490f-9e08-dca356f515bb" />
+
+
+<br><br><br>
+
+### BTW: Yes, I know about the <ins>Single</ins>-Sign-On troubles.<br>
+From my point of view, this is the wrong direction.<br>
+<ins>Same</ins>-Sign-On is the right way. One key to open all doors.<br>
+But not at the same time.<br>
+
+### <ins>Same</ins>-Sign-On means:<br>
+I log in to all my apps with my credentials registered in the Active Directory.<br>
+Different apps but same credentials. If I change my key (password),<br>
+then I can use the new key for all my apps without needing to change it too for every app I use.<br>
+Same key, different doors.<br>
+
+### In reality this would be like this:<br>
+For my flat, I got one key to open:<br>
+the door to my apartment, the door to my garage,<br>
+the door to my garbage-container and the door to my cellar.<br>
+Why should I want to open all the doors at the same time if I enter my appartment?!<br>
+
+There might be some strange constellations where I permanently<br>
+switch between my apartment and my cellar when I clean up, or whatever,<br>
+but I don't see the point. Where is the trouble to open both doors,<br>
+and keep them open? Why should I need to open all the doors that I don't use?<br>
+I can’t be at two places at the same time. Some people claim they can.<br>
+
+I imagine a point on a time-line is crossing a point of a place-line (position)<br>
+but even if there was a wormhole to shorten the way to another point on the place-line,<br>
+me, myself and I (and that is always the same guy) can only be at one place at one time.<br>
+
+### <ins>Single</ins>-Sign-On is a weak solution for a rarely fantastic claimed purpose of little use.<br>
+When I log in to my PC, I can use all the programs, but they all are „in the same room“.<br>
+That is a difference. The apps on the net spreaded all over the world are not in the same room.<br>
 
 
 <br><br><br><br><br><br><br><br><br><br>
